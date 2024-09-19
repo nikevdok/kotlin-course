@@ -2,7 +2,7 @@
 
 
 
-42 = Short
+42 = Int
 98765432123456789L = Long
 23.45f = Float
 0.123456789 = Double
