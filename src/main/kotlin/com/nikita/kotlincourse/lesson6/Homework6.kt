@@ -20,7 +20,7 @@ package com.nikita.com.nikita.kotlincourse.lesson6
 //Контекст: Кинотеатр предлагает фильмы разных возрастных категорий. Напишите функцию, которая принимает возраст зрителя и возвращает доступные для него категории фильмов: "детские", "подростковые", "18+".
 fun main () {
     println(getSeason(2))
-    println(dogToHumanYears(1.5))
+    println(dogToHumanYears(3.0))
     println(chooseTransport(0.8))
     println(calculateBonus(500.00))
     println(getFileType("txt"))
