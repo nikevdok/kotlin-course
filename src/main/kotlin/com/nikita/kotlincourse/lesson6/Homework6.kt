@@ -40,6 +40,8 @@ fun getSeason(month: Int): String {
     }
 }
 
+//что делаем по проверке?
+
 // Task 2
 fun dogToHumanYears(dogAge: Double): Double {
     return if (dogAge <= 2) {
