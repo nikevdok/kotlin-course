@@ -194,4 +194,3 @@ fun printMultiplicationTable(size: Int) {
 
 
 
-
